@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Chicago",
+    "lon": -87.623177,
+    "lat": 41.881832,
+    "month": "Jan",
+    "monthnum": 0,
+    "value": 208.666667,
+    "type": "sunshine"
+  },
+  {
+    "city": "Chicago",
+    "lon": -87.623177,
+    "lat": 41.881832,
+    "month": "Dec",
+    "monthnum": 11,
+    "value": -98563,
+    "type": "car crash"
+  },
+  {
+    "city": "Houston",
+    "lon": -95.358421,
+    "lat": 29.749907,
+    "month": "Jan",
+    "monthnum": 0,
+    "value": 219.416667,
+    "type": "sunshine"
+  },
+  {
+    "city": "Houston",
+    "lon": -95.358421,
+    "lat": 29.749907,
+    "month": "Feb",
+    "monthnum": 1,
+    "value": -66988,
+    "type": "car crash"
+  },
+  {
+    "city": "Miami",
+    "lon": -80.191788,
+    "lat": 25.761681,
+    "month": "Nov",
+    "monthnum": 10,
+    "value": 241.916667,
+    "type": "sunshine"
+  },
+  {
+    "city": "Miami",
+    "lon": -80.191788,
+    "lat": 25.761681,
+    "month": "Dec",
+    "monthnum": 11,
+    "value": -62530,
+    "type": "car crash"
+  },
+  {
+    "city": "New York",
+    "lon": -73.935242,
+    "lat": 40.73061,
+    "month": "Jan",
+    "monthnum": 0,
+    "value": 223.083333,
+    "type": "sunshine"
+  },
+  {
+    "city": "New York",
+    "lon": -73.935242,
+    "lat": 40.73061,
+    "month": "Feb",
+    "monthnum": 1,
+    "value": -108211,
+    "type": "car crash"
+  },
+  {
+    "city": "San Francisco",
+    "lon": -122.446747,
+    "lat": 37.733795,
+    "month": "Jan",
+    "monthnum": 0,
+    "value": 223.083333,
+    "type": "sunshine"
+  },
+  {
+    "city": "San Francisco",
+    "lon": -122.446747,
+    "lat": 37.733795,
+    "month": "Feb",
+    "monthnum": 1,
+    "value": -3239,
+    "type": "car crash"
+  },
+  {
+    "city": "Seattle",
+    "lon": -122.335167,
+    "lat": 47.608013,
+    "month": "Jan",
+    "monthnum": 0,
+    "value": 180.25,
+    "type": "sunshine"
+  },
+  {
+    "city": "Seattle",
+    "lon": -122.335167,
+    "lat": 47.608013,
+    "month": "Feb",
+    "monthnum": 1,
+    "value": -8406,
+    "type": "car crash"
+  }
+]
