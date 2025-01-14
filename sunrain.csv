@@ -1,0 +1,13 @@
+city,lon,lat,value,weather
+Chicago,-87.623177,41.881832,208.666667,sunshine (hours)
+Houston,-95.358421,29.749907,219.416667,sunshine (hours)
+Miami,-80.191788,25.761681,241.916667,sunshine (hours)
+New York,-73.935242,40.73061,223.083333,sunshine (hours)
+San Francisco,-122.446747,37.733795,245.833333,sunshine (hours)
+Seattle,-122.335167,47.608013,180.25,sunshine (hours)
+Chicago,-87.623177,41.881832,581,rainfall (mm)
+Houston,-95.358421,29.749907,1413,rainfall (mm)
+Miami,-80.191788,25.761681,1712,rainfall (mm)
+New York,-73.935242,40.73061,891,rainfall (mm)
+San Francisco,-122.446747,37.733795,581,rainfall (mm)
+Seattle,-122.335167,47.608013,999,rainfall (mm)
