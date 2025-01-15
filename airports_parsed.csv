@@ -1,0 +1,25 @@
+city,month,monthnum,flights
+Seattle,Jan,0,113.25
+Seattle,Feb,1,107.62
+Seattle,Mar,2,116.99
+Seattle,Apr,3,114.84
+Seattle,May,4,125.33
+Seattle,Jun,5,128.24
+Seattle,Jul,6,139.56
+Seattle,Aug,7,136.19
+Seattle,Sep,8,117.46
+Seattle,Oct,9,118.0
+Seattle,Nov,10,103.27
+Seattle,Dec,11,103.81
+San Francisco,Jan,0,104.69
+San Francisco,Feb,1,100.95
+San Francisco,Mar,2,112.07
+San Francisco,Apr,3,110.8
+San Francisco,May,4,118.21
+San Francisco,Jun,5,119.87
+San Francisco,Jul,6,126.28
+San Francisco,Aug,7,124.46
+San Francisco,Sep,8,108.75
+San Francisco,Oct,9,111.97
+San Francisco,Nov,10,102.24
+San Francisco,Dec,11,105.36
