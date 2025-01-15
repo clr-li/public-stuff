@@ -1,0 +1,49 @@
+city,lon,lat,month,monthnum,sunshine,type
+San Francisco,-122.446747,37.733795,Jan,0,165,sun
+San Francisco,-122.446747,37.733795,Feb,1,182,sun
+San Francisco,-122.446747,37.733795,Mar,2,251,sun
+San Francisco,-122.446747,37.733795,Apr,3,281,sun
+San Francisco,-122.446747,37.733795,May,4,314,sun
+San Francisco,-122.446747,37.733795,Jun,5,330,sun
+San Francisco,-122.446747,37.733795,Jul,6,300,sun
+San Francisco,-122.446747,37.733795,Aug,7,272,sun
+San Francisco,-122.446747,37.733795,Sep,8,267,sun
+San Francisco,-122.446747,37.733795,Oct,9,243,sun
+San Francisco,-122.446747,37.733795,Nov,10,189,sun
+San Francisco,-122.446747,37.733795,Dec,11,156,sun
+Seattle,-122.335167,47.608013,Jan,0,69,sun
+Seattle,-122.335167,47.608013,Feb,1,108,sun
+Seattle,-122.335167,47.608013,Mar,2,178,sun
+Seattle,-122.335167,47.608013,Apr,3,207,sun
+Seattle,-122.335167,47.608013,May,4,253,sun
+Seattle,-122.335167,47.608013,Jun,5,268,sun
+Seattle,-122.335167,47.608013,Jul,6,312,sun
+Seattle,-122.335167,47.608013,Aug,7,281,sun
+Seattle,-122.335167,47.608013,Sep,8,221,sun
+Seattle,-122.335167,47.608013,Oct,9,142,sun
+Seattle,-122.335167,47.608013,Nov,10,72,sun
+Seattle,-122.335167,47.608013,Dec,11,52,sun
+Seattle,Jan,0,113.25,airport
+Seattle,Feb,1,107.62,airport
+Seattle,Mar,2,116.99,airport
+Seattle,Apr,3,114.84,airport
+Seattle,May,4,125.33,airport
+Seattle,Jun,5,128.24,airport
+Seattle,Jul,6,139.56,airport
+Seattle,Aug,7,136.19,airport
+Seattle,Sep,8,117.46,airport
+Seattle,Oct,9,118.0,airport
+Seattle,Nov,10,103.27,airport
+Seattle,Dec,11,103.81,airport
+San Francisco,Jan,0,104.69,airport
+San Francisco,Feb,1,100.95,airport
+San Francisco,Mar,2,112.07,airport
+San Francisco,Apr,3,110.8,airport
+San Francisco,May,4,118.21,airport
+San Francisco,Jun,5,119.87,airport
+San Francisco,Jul,6,126.28,airport
+San Francisco,Aug,7,124.46,airport
+San Francisco,Sep,8,108.75,airport
+San Francisco,Oct,9,111.97,airport
+San Francisco,Nov,10,102.24,airport
+San Francisco,Dec,11,105.36,airport
